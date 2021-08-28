@@ -6,7 +6,7 @@
 - The proceeds from our NFT auctions will help fund the artist colony.
 - ProofOfAbility.org will be setup by mid-September.
 - I am a voracious reader and love to write.
-- My interests are art history and Forensic Accounting, although I confess I am a novice with both of these subjects. :)
+- My interests are Art History and Forensic Accounting, although I confess I am a novice with both of these subjects. :)
 
 <!---
 yrlbaker/yrlbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
